@@ -15,7 +15,7 @@ I have no idea how to write a README.
 Thanks iRevi for the name.
 
 ## How-to use
-1. Send "aEverr" an /np!
+1. Send "Wise Waddle Dee" an /np!
 
 ## How-to host
 1. Download the repository as zip
